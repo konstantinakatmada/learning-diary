@@ -24,3 +24,6 @@ Goal:
 Yours:
 
     {fulfilled: ['10']}
+    
+    23-29 October 2022
+    This week solidified my knowledge of the previous ones. My understanding of Promises was put to test with the Business Card generator, and I was relieved to see all the work of the previous two weeks helped my manage to render the results of an API, even if there was an unexpected issue to solve, as the case usually is when building an app or website. The particular challenge was how to get image results from an API returning JSON Objects.
