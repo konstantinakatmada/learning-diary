@@ -24,7 +24,7 @@ Goal:
 Yours:
 
     {fulfilled: ['10']}
-    The most important parts of the day though, came from some people who shared their knowledge. Fatimat Gbajabiamila, a Founders and Coders alumnus, shared her experience with us at the Founders and Coders bootcamp and answered all of our question. 
+    The most important parts of the day though, came from some people who shared their knowledge. Fatimat Gbajabiamila, a Founders and Coders alumnus, shared her experience with us at the Founders and Coders bootcamp and answered all of our question. Fatimat, who has went on to have a career as a Software Engineer after completing the bootcamp, was eloquent and honest, and her speech was heartwarming and empowering to the maximun deggree.
     
     
     23-29 October 2022
