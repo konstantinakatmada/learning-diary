@@ -24,7 +24,7 @@ Goal:
 Yours:
 
     {fulfilled: ['10']}
-    The most important parts of the day though, came from elsewhere.
+    The most important parts of the day though, came from some people who shared their knowledge.
     
     
     23-29 October 2022
