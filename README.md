@@ -24,7 +24,7 @@ Goal:
 Yours:
 
     {fulfilled: ['10']}
-    The most important parts of the day though, came from some people who shared their knowledge.
+    The most important parts of the day though, came from some people who shared their knowledge. Fatimat Gbajabiamila, a Founders and Coders alumnus, shared her experience with us at the Founders and Coders bootcamp and answered all of our question. 
     
     
     23-29 October 2022
